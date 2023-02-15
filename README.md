@@ -3,7 +3,7 @@
 - - - 
 ## Assessment of the fatigue strength using local stresses
 The assessment of the fatigue strength is carried out using local elastic stresses. the assessment applies uniformly to all types of components.
-- - -
+
 ### Characteristic service stress
 1. Stress spectrum and constant amplitude S-N curve
 
